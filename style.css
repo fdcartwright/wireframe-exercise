@@ -63,6 +63,7 @@
     line-height: 1.4;
     overflow-y: scroll;
     height: 340px;
+    margin-right: 10%;
 }
 
 #feature-banner button {
